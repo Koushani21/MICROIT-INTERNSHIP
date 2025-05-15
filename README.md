@@ -1,1 +1,1 @@
-2 internship projects # MICROIT-INTERNSHIP
+ internship projects # MICROIT-INTERNSHIP
